@@ -96,7 +96,7 @@ In Eclipse, edit the file `pom.xml` and add the following lines before `</projec
     <dependency>
       <groupId>org.web3j</groupId>
       <artifactId>core</artifactId>
-      <version>4.3.0</version>
+      <version>4.12.2</version>
     </dependency>
   </dependencies>
 ```
